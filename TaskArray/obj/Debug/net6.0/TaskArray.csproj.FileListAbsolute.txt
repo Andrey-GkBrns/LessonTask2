@@ -1,0 +1,15 @@
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\bin\Debug\net6.0\TaskArray.exe
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\bin\Debug\net6.0\TaskArray.deps.json
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\bin\Debug\net6.0\TaskArray.runtimeconfig.json
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\bin\Debug\net6.0\TaskArray.dll
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\bin\Debug\net6.0\TaskArray.pdb
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.csproj.AssemblyReference.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.AssemblyInfoInputs.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.AssemblyInfo.cs
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.dll
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\refint\TaskArray.dll
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.pdb
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\TaskArray.genruntimeconfig.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskArray\obj\Debug\net6.0\ref\TaskArray.dll
