@@ -1,0 +1,15 @@
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\bin\Debug\net6.0\TaskFunction2.exe
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\bin\Debug\net6.0\TaskFunction2.deps.json
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\bin\Debug\net6.0\TaskFunction2.runtimeconfig.json
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\bin\Debug\net6.0\TaskFunction2.dll
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\bin\Debug\net6.0\TaskFunction2.pdb
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.csproj.AssemblyReference.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.AssemblyInfoInputs.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.AssemblyInfo.cs
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.csproj.CoreCompileInputs.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.dll
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\refint\TaskFunction2.dll
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.pdb
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\TaskFunction2.genruntimeconfig.cache
+C:\Users\User\Teaching_GkBrns\LessonTask2\TaskFunction2\obj\Debug\net6.0\ref\TaskFunction2.dll
